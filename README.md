@@ -100,7 +100,7 @@ WiFi入侵检测、回家离家检测等相关功能来自苹果路由器的支�
 
 9. 有时候程序关闭后退出不干净，再启动会提示套接字已被占用。这时启动任务管理器，找到名为“SMA Elfin.exe”的进程杀掉即可。至于为什么会这样，我也搞不清楚。
 
-10. 从[Releases]https://github.com/xcray/SMA-Elfin/releases 下载二进制文件（运行环境要求：Win 64，.Net >4.5；暂不公开源码）。
+10. 从[Releases页面](https://github.com/xcray/SMA-Elfin/releases) 下载二进制文件（运行环境要求：Win 64，.Net >4.5；暂不公开源码）。
 
 #### 动手能力更强、更喜欢折腾的，可以玩HomeAssistant，更强大、可玩性更高。当然，更复杂，而且是非常复杂，并且有些功能反而不够方便。
 
